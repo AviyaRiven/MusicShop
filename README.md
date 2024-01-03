@@ -15,7 +15,7 @@ Welcome to our Musical Instruments Shopping Site, a React-based project that let
 - **Bootstrap:** Ensure a responsive and visually appealing design using the Bootstrap framework.
 
 ## Getting Started
-1. Clone the repository: `git clone [<repository-url>](https://github.com/AviyaRiven/MusicShop.git)`
+1. Clone the repository: `git clone https://github.com/AviyaRiven/MusicShop.git`
 2. Navigate to the project directory: `cd musical-instruments-shopping-site`
 3. Install dependencies: `npm install`
 4. Run the application: `npm start`
